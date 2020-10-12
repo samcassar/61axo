@@ -1,0 +1,11 @@
+
+*.xml
+lab00/.ok_history
+lab00/.ok_messages
+*.bak
+*.dat
+*.dir
+*.pyc
+lab00/tests/python-basics.py
+lab00/tests/python-basics.py
+lab00/tests/python-basics.py
