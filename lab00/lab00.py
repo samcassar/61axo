@@ -5,7 +5,7 @@ def twenty_twenty():
     >>> twenty_twenty()
     2020
     """
-    print('the hangman seeks blood')
+    print('the hangman seeks blood O:')
     return 20
 
 twenty_twenty()
